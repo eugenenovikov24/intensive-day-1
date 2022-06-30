@@ -3,5 +3,12 @@
     text-align: center;
     background: #999;
     font-size: 32px;
+}
+
+.main {
+    background: LightGreen;
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
     font-family: sans-serif;
 }
